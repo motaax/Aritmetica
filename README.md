@@ -1,2 +1,1 @@
-# Aritmetica
-Praticando operações matemáticas em C
+# Praticando operações matemáticas em C
